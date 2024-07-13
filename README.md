@@ -40,7 +40,6 @@
    `git clone https://github.com/gabrielpenteado/api-java-spring-mongodb`
 
 2. Create a MongoDB database, copy the URL of connection and paste to .env file.<br>
-   `docker compose up -d`
 
 3. Run Application.<br>
    `mvn spring-boot:run`
