@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/gabrielpenteado/api-java-spring-mongodb/main/swagger.jpeg"> 
+    <img src="https://raw.githubusercontent.com/gabrielpenteado/api-java-spring-mongodb/main/swagger.png"> 
 </p>
 
 ### Build with
