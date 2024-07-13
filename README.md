@@ -44,7 +44,7 @@
 3. Run Application.<br>
    `mvn spring-boot:run`
 
-4. To access the API documentation with Swagger
+4. To access the API documentation with Swagger.<br>
    `localhost:8080/swagger-ui/index.html`
    <br>
 
